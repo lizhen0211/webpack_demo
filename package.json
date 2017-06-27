@@ -13,7 +13,9 @@
   "devDependencies": {
     "css-loader": "^0.28.4",
     "csv-loader": "^2.1.1",
+    "extract-text-webpack-plugin": "^2.1.2",
     "file-loader": "^0.11.2",
+    "html-webpack-plugin": "^2.29.0",
     "style-loader": "^0.18.2",
     "webpack": "^3.0.0",
     "xml-loader": "^1.2.1"
